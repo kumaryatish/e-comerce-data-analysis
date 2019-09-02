@@ -1,4 +1,3 @@
-# Kernel written by : Jihed DEROUICHE (Classic ML model exploration)
 # Data set: Customer Comments in correlation Clothing E-commerce reviewing
 import pandas as pd
 import numpy as np
